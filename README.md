@@ -19,5 +19,5 @@ Welcome to the John Cena and Neo Matrix Chat App! Here's how to get started:
 Select a chat buddy: Click on John Cena or Neo Matrix's name to start a chat.
 No messages are available: This means that you or your chat buddy has not sent any messages yet.
 Type a message here: Type your message and hit enter to send it.
-![Screenshot (87)](https://github.com/abhisharma9876/chat-app/assets/86251863/3514179a-dafd-4b0d-b1bc-6f430ea0dc14)
+
 ![Screenshot (88)](https://github.com/abhisharma9876/chat-app/assets/86251863/9ba76805-ea6d-4410-ac4f-47890be604d5)
